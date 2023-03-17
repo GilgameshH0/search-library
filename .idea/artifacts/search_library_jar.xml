@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="search-library:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/search_library_jar</output-path>
+    <root id="archive" name="search-library.jar">
+      <element id="module-output" name="search-library" />
+    </root>
+  </artifact>
+</component>
